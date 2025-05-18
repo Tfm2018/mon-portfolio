@@ -1,7 +1,7 @@
 // script.js
 
 const typedText = document.querySelector('.typed-text');
-const words = ['Inventions', 'Robotics', 'Embedded Systems', 'Innovation'];
+const words = ['Inventions', 'Robotics', 'Embedded Systems', 'Innovations'];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
